@@ -41,7 +41,7 @@ int main(){
 	}
 	
 	print(vet->elems, vet->P);
-  
+	
   	printf("REMOVENDO O MENOR!\n");
   	VETORD_remove(vet);
   	
