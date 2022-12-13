@@ -17,7 +17,7 @@
 <hr>
 
 <h2>💻 Gerando os arquivos para o programa</h2>
-<p>Para executar o programa você precisa de um (1) arquivo principai, é ele:</p>
+<p>Para executar o programa você precisa de dois (2) arquivos principais, são eles:</p>
 <li>Makefile (onde tem as instruções para criação das bibliotecas e arquivos executáveis do programa)</li>
 <li>TR3_539368.c (será a main do código, a primeira parte que irá ser executada)</li>
 
